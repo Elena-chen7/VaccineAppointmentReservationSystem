@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7cd1ceb-1b22-437e-bad5-9f5ee5717b0a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29VTwFdisqpRQhCURU1cz44XBnU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chenhuijing/Desktop/414HW6/vaccine-scheduler-java-main&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="Server" value="elenachenhj" />
+        <env name="DBName" value="Elenachj" />
+        <env name="UserID" value="chj" />
+        <env name="Password" value="Helenchen818181" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="scheduler.Scheduler" />
+      <module name="vaccine-scheduler-java-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7cd1ceb-1b22-437e-bad5-9f5ee5717b0a" name="Changes" comment="" />
+      <created>1653197490768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653197490768</updated>
+      <workItem from="1653197496901" duration="2176000" />
+      <workItem from="1653202350678" duration="1976000" />
+      <workItem from="1653276494310" duration="56000" />
+      <workItem from="1653276608172" duration="109000" />
+      <workItem from="1653277601693" duration="1055000" />
+      <workItem from="1653281092780" duration="213000" />
+      <workItem from="1653281308553" duration="257000" />
+      <workItem from="1653340803635" duration="109000" />
+      <workItem from="1653340914932" duration="427000" />
+      <workItem from="1653342188058" duration="583000" />
+      <workItem from="1653343162854" duration="43000" />
+      <workItem from="1653343588387" duration="235000" />
+      <workItem from="1653344436823" duration="548000" />
+      <workItem from="1653354270582" duration="1381000" />
+      <workItem from="1653367186060" duration="326000" />
+      <workItem from="1653431868751" duration="573000" />
+      <workItem from="1653433708379" duration="31000" />
+      <workItem from="1653451371272" duration="295000" />
+      <workItem from="1653587938869" duration="2592000" />
+      <workItem from="1653602280519" duration="1016000" />
+      <workItem from="1653929821610" duration="2410000" />
+      <workItem from="1653945423317" duration="893000" />
+      <workItem from="1653970972040" duration="695000" />
+      <workItem from="1654024891325" duration="1430000" />
+      <workItem from="1654032795098" duration="2846000" />
+      <workItem from="1654036794550" duration="1121000" />
+      <workItem from="1654040864843" duration="575000" />
+      <workItem from="1654098327439" duration="623000" />
+      <workItem from="1654142024863" duration="336000" />
+      <workItem from="1654212521584" duration="15718000" />
+      <workItem from="1654285857066" duration="184000" />
+      <workItem from="1654296047055" duration="2586000" />
+      <workItem from="1654309786947" duration="1133000" />
+      <workItem from="1654317217456" duration="9503000" />
+      <workItem from="1654329629851" duration="1464000" />
+      <workItem from="1654365292250" duration="3449000" />
+      <workItem from="1654369351422" duration="708000" />
+      <workItem from="1654370533576" duration="257000" />
+      <workItem from="1654371076928" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
